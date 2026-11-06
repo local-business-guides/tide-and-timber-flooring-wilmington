@@ -29,6 +29,9 @@
 - [Affordable flooring nc Wilmington homeowners can compare](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/affordable-flooring-nc-wilmington/): Compare affordable flooring nc Wilmington options at home with full-size samples. See them in your Wilmington rooms, then book a free consultation.
 - [Flooring installer Wilmington homeowners can plan with](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/flooring-installer-wilmington/): Plan your flooring installer Wilmington project with sample viewing, prep and finish details in mind. Call Tide & Timber Flooring to book a consultation.
 
+## Newsroom
+- [Tide & Timber Flooring Publishes Wilmington Flooring Guide](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/news/2026-11-06-tide-timber-flooring-publishes-wilmington-flooring/): Tide & Timber Flooring released a guide to flooring in Wilmington, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Flooring in Wilmington, North Carolina](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/): Explore flooring at home with full-size samples, helpful guidance, and installation planning for your Wilmington space. Call +1910-200-5136.
 - [About Tide & Timber Flooring](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/about/): About Tide & Timber Flooring, Wilmington.
@@ -36,4 +39,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/news/rss.xml)
 - [Main resource site](https://tide-timber-flooring-wilmington.localbusinesses1.chatgpt.site)

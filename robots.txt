@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/sitemap.xml
+Sitemap: https://local-business-guides.github.io/tide-and-timber-flooring-wilmington/news-sitemap.xml
